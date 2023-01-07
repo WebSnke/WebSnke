@@ -10,4 +10,4 @@
 
 | GitHub Streak | GitHub Stats |
 | ----------- | ----------- |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=WebSnke&theme=dark)](https://git.io/streak-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebSnke)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=WebSnke&theme=nord)](https://git.io/streak-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebSnke&theme=nord)](https://github.com/anuraghazra/github-readme-stats) |
