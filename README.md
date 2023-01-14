@@ -1,4 +1,4 @@
-<p align="center"><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></p>
+<p align="center"><img width="20%" src="https://i.redd.it/snoovatar/avatars/147b32d4-f594-4420-81e3-f35bc6ea7520.png"></p>
 
 <h3 align="center">Hello! I am WebSnke.</h3>
 <p align="center">Student. Web Developer. Linux User.</p>
