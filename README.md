@@ -20,9 +20,6 @@
   <a href="https://www.freecodecamp.org/WebSnke" title="freeCodeCamp - WebSnke">
     <img src="https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=flat&logo=freeCodeCamp&logoColor=white">
   </a>
-  <a href="https://github.com/WebSnke" title="GitHub - WebSnke">
-    <img src="https://img.shields.io/badge/-GitHub-3a3a3a?style=flat&logo=GitHub&logoColor=white">
-  </a>
   <a href="https://steamcommunity.com/id/WebSnke" title="Steam - WebSnke">
     <img src="https://img.shields.io/badge/-Steam-0f216e?style=flat&logo=Steam&logoColor=white">
   </a>
