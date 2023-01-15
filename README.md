@@ -17,6 +17,7 @@
   <a href="mailto:WebSnke@tutanota.com" title="Tutanota - WebSnke">
     <img src="https://img.shields.io/badge/-Tutanota-840010?style=flat&logo=Tutanota&logoColor=white">
   </a>
+  <br>
   <a href="https://www.freecodecamp.org/WebSnke" title="freeCodeCamp - WebSnke">
     <img src="https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=flat&logo=freeCodeCamp&logoColor=white">
   </a>
