@@ -20,6 +20,9 @@
   <a href="https://github.com/WebSnke" title="GitHub - WebSnke">
     <img src="https://img.shields.io/badge/-GitHub-3a3a3a?style=flat&logo=GitHub&logoColor=white">
   </a>
+  <a href="https://steamcommunity.com/id/WebSnke" title="Steam - WebSnke">
+    <img src="https://img.shields.io/badge/-Steam-0f216e?style=flat&logo=Steam&logoColor=white">
+  </a>
   <a href="https://lichess.org/@/WebSnke" title="Lichess - WebSnke">
     <img src="https://img.shields.io/badge/-Lichess-161512?style=flat&logo=Lichess&logoColor=white">
   </a>
