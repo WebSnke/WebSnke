@@ -1,4 +1,4 @@
-<p align="center"><img width="20%" src="https://i.redd.it/snoovatar/avatars/147b32d4-f594-4420-81e3-f35bc6ea7520.png"></p>
+<p align="center"><img width="20%" src="https://i.redd.it/snoovatar/avatars/25c5781c-3ddb-4da7-933b-b347fe1b5cfb.png"></p>
 
 <h3 align="center">Hello! I am WebSnke.</h3>
 <p align="center">Student. Web Developer. Linux User.</p>
