@@ -21,13 +21,10 @@
   <a href="https://www.freecodecamp.org/WebSnke" title="freeCodeCamp - WebSnke">
     <img src="https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=flat&logo=freeCodeCamp&logoColor=white">
   </a>
-  <a href="https://steamcommunity.com/id/WebSnke" title="Steam - WebSnke">
-    <img src="https://img.shields.io/badge/-Steam-0f216e?style=flat&logo=Steam&logoColor=white">
-  </a>
   <a href="https://lichess.org/@/WebSnke" title="Lichess - WebSnke">
     <img src="https://img.shields.io/badge/-Lichess-161512?style=flat&logo=Lichess&logoColor=white">
   </a>
-  <a href="https://www.duolingo.com/profile/WebSnke" title="Duolingo - WebSnke">
-    <img src="https://img.shields.io/badge/-Duolingo-58cd00?style=flat&logo=Duolingo&logoColor=white">
+  <a href="https://www.duolingo.com/profile/WebSnke" title="Stack Overflow - WebSnke">
+    <img src="https://img.shields.io/badge/-Stack Overflow-f48225?style=flat&logo=Stack-Overflow&logoColor=white">
   </a>
 </p>
