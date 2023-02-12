@@ -24,7 +24,7 @@
   <a href="https://lichess.org/@/WebSnke" title="Lichess - WebSnke">
     <img src="https://img.shields.io/badge/-Lichess-161512?style=flat&logo=Lichess&logoColor=white">
   </a>
-  <a href="https://www.duolingo.com/profile/WebSnke" title="Stack Overflow - WebSnke">
+  <a href="https://stackoverflow.com/users/20993186/websnke" title="Stack Overflow - WebSnke">
     <img src="https://img.shields.io/badge/-Stack Overflow-f48225?style=flat&logo=Stack-Overflow&logoColor=white">
   </a>
 </p>
