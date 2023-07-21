@@ -1,8 +1,3 @@
-<p align="center"><img width="20%" src="https://i.redd.it/snoovatar/avatars/25c5781c-3ddb-4da7-933b-b347fe1b5cfb.png"></p>
-
-<h3 align="center">Hello! I am WebSnke.</h3>
-<p align="center">Student. Web Developer. Linux User.</p>
-
 <!-- Socials -->
 <p align="center">
   <a href="https://www.reddit.com/user/WebSnke" title="Reddit - WebSnke">
@@ -17,7 +12,6 @@
   <a href="mailto:WebSnke@tutanota.com" title="Tutanota - WebSnke">
     <img src="https://img.shields.io/badge/-Tutanota-840010?style=flat&logo=Tutanota&logoColor=white">
   </a>
-  <br>
   <a href="https://www.freecodecamp.org/WebSnke" title="freeCodeCamp - WebSnke">
     <img src="https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=flat&logo=freeCodeCamp&logoColor=white">
   </a>
