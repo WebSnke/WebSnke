@@ -1,5 +1,5 @@
 <p align="center">
-  <img style='height: 170px' src="https://github-readme-stats.vercel.app/api?username=WebSnke&custom_title=Sönke+Joppien&hide=contribs&include_all_commits=true&rank_icon=percentile&show=reviews&show_icons=true&theme=react" alt="GitHub Stats">
+  <img style='height: 170px' src="https://github-readme-stats.vercel.app/api?username=WebSnke&custom_title=Sönke+Joppien&hide=contribs&include_all_commits=true&rank_icon=percentile&show=reviews&show_icons=true&theme=graywhite" alt="GitHub Stats">
 </p>
 
 <!-- Socials -->
